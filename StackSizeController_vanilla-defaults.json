@@ -219,7 +219,7 @@
   "electrical.memorycell": 5,
   "elevator": 5,
   "explosive.satchel": 10,
-  "explosive.timed": 10,
+  "explosive.timed": 10000,
   "explosives": 100,
   "factorydoor": 1,
   "fat.animal": 1000,
